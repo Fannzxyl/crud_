@@ -6,3 +6,9 @@ lalu node server.js di backend
 lalu npm run dev di frontend
 
 jangan lupa import database di mysql
+
+pasang .env di backend isinya
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=crud_app
